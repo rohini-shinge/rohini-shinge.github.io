@@ -1,2 +1,2 @@
 # rohini-shinge.github.io
-This is for professional websire
+This is for professional website
